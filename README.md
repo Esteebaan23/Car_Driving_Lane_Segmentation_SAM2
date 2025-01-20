@@ -14,7 +14,7 @@ The repository includes four main scripts:
 ## Requirements
 
 To run the code, you need the original image along with its corresponding mask. As shown in the following figure.
-![Car Segmentation](path/to/car_segmentation_image.png)
+![Car Segmentation]([path/to/car_segmentation_image.png](https://github.com/Esteebaan23/Car_Driving_Lane_Segmentation_SAM2/blob/main/Assets/Imagen_Mask.png))
 
 ## Dataset
 
