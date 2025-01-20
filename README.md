@@ -14,9 +14,14 @@ The repository includes four main scripts:
 ## Requirements 
 
 To run the code, you need the original image along with its corresponding mask. As shown in the following figure.
-  ![Driving Lane Segmentation](./Assets/Imagen_Mask.png)
+  ![Input_Images](./Assets/Imagen_Mask.png)
 
 ## Dataset
 
 For this project, images were selected under foggy weather conditions. These images were manually annotated using SAM2.
 
+## Results
+
+The results for this project are shown in the following figure.
+
+  ![Segmentation](./Assets/results.png)
