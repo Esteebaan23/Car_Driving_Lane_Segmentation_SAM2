@@ -11,10 +11,10 @@ The repository includes four main scripts:
 3. **Combined Segmentation**: Segments both cars and driving lanes simultaneously.
 4. **Results Compilation**: Displays the outputs of the previous three scripts side by side for comparison.
 
-## Requirements
+## Requirements 
 
 To run the code, you need the original image along with its corresponding mask. As shown in the following figure.
-![Car Segmentation]([path/to/car_segmentation_image.png](https://github.com/Esteebaan23/Car_Driving_Lane_Segmentation_SAM2/blob/main/Assets/Imagen_Mask.png))
+  ![Driving Lane Segmentation](./Assets/Imagen_Mask.png)
 
 ## Dataset
 
